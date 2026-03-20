@@ -9,3 +9,7 @@ const areaOfSquare = (arm: number): number => {
 const areaOfRectangle = (length: number, width: number): number => {
   return length * width;
 };
+
+const areaOfTriane = (length: number, height: number): number => {
+  return (1/2) * length * height;
+};
